@@ -4,5 +4,3 @@ Por favor agregen su nombre y número de carné:
 
 Carné   Nombre
 970836  Carlos A Castro
-FOO
-BAR
