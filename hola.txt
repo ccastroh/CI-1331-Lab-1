@@ -1,0 +1,6 @@
+Hola estudiantes del CI-1331!
+
+Por favor agregen su nombre y número de carné:
+
+Carné   Nombre
+970836  Carlos A Castro
