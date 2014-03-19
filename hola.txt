@@ -5,3 +5,4 @@ Por favor agregen su nombre y número de carné:
 Carné   Nombre
 970836  Carlos A Castro
 B10542  Daniel Arguedas
+B06279  María del Mar Taborda Arroyo
