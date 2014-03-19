@@ -1,0 +1,10 @@
+Hola estudiantes del CI-1331!
+
+Por favor agregen su nombre y número de carné:
+
+Carné   Nombre
+970836  Carlos A Castro
+B10542  Daniel Arguedas
+B06279  María del Mar Taborda Arroyo
+A82111  Allan Delgado S
+B06882  Juan José Villalobos Soto
