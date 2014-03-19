@@ -13,8 +13,31 @@ A96247	JesúsTorres Quesada
 =======
 b04539  Andony Núñez Solano
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+david hine A11788
+=======
+B04732 Jialin Peng Zheng
+>>>>>>> cc4a9a08ff1b2b8d936f740f5c7dcaefcebd7163
+=======
+<<<<<<< HEAD
+Jorge Mata Villalobos	a73859
+>>>>>>> 2a552a70d9cccce1d7ada1bf9826e6be069ef4c4
 =======
 B05206  Xiannie Rivas Hylton
 >>>>>>> f118f719475967f77c264a25f048d3145ddbdfaf
+<<<<<<< HEAD
 >>>>>>> 8a36c9b9dd3d9912b136377d5283d5eab6490135
+
+=======
+>>>>>>> fc93be56b7b5bad249ed1f7d6901012454e935b4
+<<<<<<< HEAD
+>>>>>>> b75bad1092dd00b92d7a0ae7c88f9b86a99f42d6
+.
+.
+=======
+>>>>>>> 0a289ed17e46cce5ba35924e8c580a808797e445
+>>>>>>> cc4a9a08ff1b2b8d936f740f5c7dcaefcebd7163
+>>>>>>> 2a552a70d9cccce1d7ada1bf9826e6be069ef4c4
 A85274	Daniel Rivera Solano
