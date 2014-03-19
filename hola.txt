@@ -12,4 +12,9 @@ B06882  Juan José Villalobos Soto
 A96247	JesúsTorres Quesada
 =======
 b04539  Andony Núñez Solano
+<<<<<<< HEAD
+=======
+B05206  Xiannie Rivas Hylton
+>>>>>>> f118f719475967f77c264a25f048d3145ddbdfaf
 >>>>>>> 8a36c9b9dd3d9912b136377d5283d5eab6490135
+A85274	Daniel Rivera Solano
