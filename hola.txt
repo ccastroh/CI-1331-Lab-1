@@ -6,3 +6,4 @@ Carné   Nombre
 970836  Carlos A Castro
 B10542  Daniel Arguedas
 B06279  María del Mar Taborda Arroyo
+A82111  Allan Delgado Sandí
