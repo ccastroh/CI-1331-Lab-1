@@ -1,4 +1,3 @@
-
 Hola estudiantes del CI-1331!
 
 Por favor agregen su nombre y número de carné:
@@ -10,16 +9,15 @@ B06279  María del Mar Taborda Arroyo
 A82111  Allan Delgado S
 B06882  Juan José Villalobos Soto
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
 A96247	JesúsTorres Quesada
 =======
 b04539  Andony Núñez Solano
-B05206  Xiannie Rivas Hylton
->>>>>>> 8a36c9b9dd3d9912b136377d5283d5eab6490135
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 B04732 Jialin Peng Zheng
+=======
+>>>>>>> f7c3eaf5229f88f418b4f322986ccb9ba0719a47
 =======
 <<<<<<< HEAD
 david hine A11788
@@ -30,8 +28,14 @@ B04732 Jialin Peng Zheng
 =======
 <<<<<<< HEAD
 Jorge Mata Villalobos	a73859
+>>>>>>> 2a552a70d9cccce1d7ada1bf9826e6be069ef4c4
 =======
+B05206  Xiannie Rivas Hylton
 >>>>>>> f118f719475967f77c264a25f048d3145ddbdfaf
+<<<<<<< HEAD
+>>>>>>> 8a36c9b9dd3d9912b136377d5283d5eab6490135
+
+=======
 >>>>>>> fc93be56b7b5bad249ed1f7d6901012454e935b4
 <<<<<<< HEAD
 >>>>>>> 0a289ed17e46cce5ba35924e8c580a808797e445
@@ -44,3 +48,8 @@ Jorge Mata Villalobos	a73859
 >>>>>>> 0a289ed17e46cce5ba35924e8c580a808797e445
 >>>>>>> cc4a9a08ff1b2b8d936f740f5c7dcaefcebd7163
 >>>>>>> 2a552a70d9cccce1d7ada1bf9826e6be069ef4c4
+<<<<<<< HEAD
+=======
+A85274	Daniel Rivera Solano
+Melissa Garro Morales B02604
+>>>>>>> f7c3eaf5229f88f418b4f322986ccb9ba0719a47
