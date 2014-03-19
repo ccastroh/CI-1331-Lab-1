@@ -9,11 +9,11 @@ B06279  María del Mar Taborda Arroyo
 A82111  Allan Delgado S
 B06882  Juan José Villalobos Soto
 <<<<<<< HEAD
-B05206  Xiannie Rivas Hylton
 =======
 <<<<<<< HEAD
 A96247	JesúsTorres Quesada
 =======
 b04539  Andony Núñez Solano
+B05206  Xiannie Rivas Hylton
 >>>>>>> 8a36c9b9dd3d9912b136377d5283d5eab6490135
 >>>>>>> f118f719475967f77c264a25f048d3145ddbdfaf
